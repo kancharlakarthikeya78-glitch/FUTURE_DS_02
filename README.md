@@ -1,6 +1,8 @@
 # FUTURE_DS_02
 # 📊 Social Media Campaign Performance Tracker (Task 2)
 
+Name: K.KARTHIKEYA
+
 ## Internship
 Future Interns – Data Science & Analytics  
 Track Code: DS  
