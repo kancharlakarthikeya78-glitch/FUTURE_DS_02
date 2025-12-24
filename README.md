@@ -3,6 +3,8 @@
 
 Name: K.KARTHIKEYA
 
+Mail: kancharlakarthikeya78@gmail.com
+
 ## Internship
 Future Interns – Data Science & Analytics  
 Track Code: DS  
